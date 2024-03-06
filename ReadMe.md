@@ -11,8 +11,6 @@ Ladbroke Grove
 INSTALLATION
 -
 -Clone the Repository
-  git clone https://github.com/Dolfynn/Ladbroke-Grove.git
-
 
 To write code
 -
